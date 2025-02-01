@@ -16,3 +16,4 @@ mongoose
   .catch((err) => console.log(err));
 app.use("/api/faqs", faqRoutes);
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+module.exports = app;
