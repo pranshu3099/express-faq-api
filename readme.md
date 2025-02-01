@@ -105,9 +105,3 @@ The following endpoints are available in the api
 
 - **Step 7: Code Review and Merging**
   After the PR is reviewed and approved, it will be merged into the main branch.
-  .
-
-```
-
-
-```
